@@ -1,6 +1,6 @@
 #include "binary_trees.h"
-#include "binary_tree_height.c"
-#include "binary_tree_is_full.c"
+#include "9-binary_tree_height.c"
+#include "15-binary_tree_is_full.c"
 
 /**
  * binary_tree_is_perfect - Function that checks if a Btree is full.
